@@ -26,7 +26,7 @@ export default function Footer() {
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://twitter.com/osanseviero"
+          href="https://twitter.com"
           className="group"
           aria-label=""
           target="_blank"
@@ -39,7 +39,7 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/osanseviero/geminicoder"
+          href="https://github.com/dorndickence"
           className="group"
           aria-label="TaxPal on GitHub"
           target="_blank"

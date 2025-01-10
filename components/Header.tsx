@@ -13,7 +13,7 @@ export default function Header() {
         </h1>
       </Link>
       <a
-        href="https://github.com/osanseviero/geminicoder"
+        href="https://github.com"
         target="_blank"
         className="ml-auto hidden items-center gap-3 rounded-2xl bg-white dark:bg-[#1E293B] dark:text-gray-100 px-6 py-2 sm:flex border border-gray-200 dark:border-gray-700"
       >
